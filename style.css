@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Loja de Roupas</title>
+</head>
+<body>
+    <header>
+        <h1>Loja de Roupas</h1>
+    </header>
+
+    <main>
+        <section class="products">
+            <div class="product">
+                <img src="img/camisa.jpg" alt="Camisa">
+                <h2>Camisa</h2>
+                <p>R$ 100,00</p>
+            </div>
+
+            <div class="product">
+                <img src="img/calca.jpg" alt="Calça">
+                <h2>Calça</h2>
+                <p>R$ 70,00</p>
+            </div>
+
+            <div class="product">
+                <img src="img/moletom.jpg" alt="Moletom">
+                <h2>Moletom</h2>
+                <p>R$ 80,00</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2022 Loja de Roupas. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
